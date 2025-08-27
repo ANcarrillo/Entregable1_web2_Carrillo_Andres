@@ -109,10 +109,11 @@ main {
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    color: white;
+    color:#333;
 }
 
 /* Footer */
+
 footer {
     height: 10vh;
     display: flex;
