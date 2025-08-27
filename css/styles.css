@@ -103,7 +103,7 @@ main {
 /* Imagen */
 #image {
     grid-area: image;
-    background:url('/img/foto.jpg');
+    background:url('../img/foto.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
