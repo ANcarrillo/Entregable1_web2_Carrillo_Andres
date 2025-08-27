@@ -116,8 +116,10 @@ main {
 
 footer {
     height: 10vh;
+    background: rgb(72, 146, 110);
+    backdrop-filter: blur(10px);
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     color: white;
     font-size: 1rem;
